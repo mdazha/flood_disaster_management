@@ -5,6 +5,7 @@ This project is a research-oriented prototype for post-flood disaster response u
 The work is based on the paper:
 `An integrated convolutional neural network and sorting algorithm for image classification for efficient flood disaster management`  
 Decision Analytics Journal, 2023.
+Link: https://www.sciencedirect.com/science/article/pii/S2772662223000656  
 
 ## Project Goal
 
